@@ -1,4 +1,4 @@
-name: cvlab2
+name: cv_project
 channels:
   - defaults
 dependencies:
