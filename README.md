@@ -2,7 +2,6 @@
 
 Team Member:
 - Dominik Heindl
-- Hasan Yaprak
 - Philipp Eberstaller
 - Carson Wittwer
 
