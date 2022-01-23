@@ -1,4 +1,4 @@
-#CV Lab 2021 Group B0 Project
+# CV Lab 2021 Group B0 Project
 
 Team Member:
 - Dominik Heindl
