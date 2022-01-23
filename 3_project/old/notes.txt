@@ -1,3 +1,0 @@
-Autoencoder?
-only do anomaly detection where all images exist
-    - when combining images where there are pixels from every image
